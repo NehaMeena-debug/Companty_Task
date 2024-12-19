@@ -1,0 +1,2 @@
+This repository contains solutions to various coding challenges aimed at preparing for interviews and improving problem-solving skills. The problems include a variety of topics such as arrays, strings, dynamic programming, algorithms, and more. The goal is to provide efficient and optimized solutions, as well as to showcase different techniques and methodologies for tackling challenges in coding interviews. Feel free to explore, learn, and contribute to improve the solutions!
+
